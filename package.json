@@ -11,27 +11,27 @@
     "file-manager": "index.js"
   },
   "dependencies": {
-    "@primer/octicons": "^16.1.1",
-    "archiver": "^5.3.0",
-    "bootstrap": "^5.0.0",
-    "connect-busboy": "^0.0.2",
+    "@primer/octicons": "^19.15.2",
+    "archiver": "^7.0.1",
+    "bootstrap": "^5.3.6",
+    "connect-busboy": "^1.0.0",
     "connect-flash": "^0.1.1",
-    "express": "^4.19.2",
-    "express-handlebars": "^6.0.1",
-    "express-session": "^1.17.2",
-    "filesize": "^8.0.6",
-    "jquery": "^3.6.0",
-    "node-pty": "^0.10.1",
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.3",
+    "express-session": "^1.18.1",
+    "filesize": "^10.1.6",
+    "jquery": "^3.7.1",
+    "node-pty": "^1.0.0",
     "notp": "^2.0.3",
-    "rimraf": "^3.0.2",
+    "rimraf": "^6.0.1",
     "thirty-two": "^1.0.2",
-    "ws": "^8.5.0",
-    "xterm": "^4.15.0",
-    "xterm-addon-attach": "^0.6.0",
-    "xterm-addon-fit": "^0.5.0"
+    "ws": "^8.18.2",
+    "xterm": "^5.3.0",
+    "xterm-addon-attach": "^0.9.0",
+    "xterm-addon-fit": "^0.8.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20",
-    "prettier": "^2.4.1"
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
   }
 }
